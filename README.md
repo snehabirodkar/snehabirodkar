@@ -24,13 +24,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehabirodkar&show_icons=true&locale=en" alt="snehabirodkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehabirodkar&" alt="snehabirodkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehabirodkar" alt="snehabirodkar" /></p>
 
 📌 Contact Me :
 
-[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://hashnode.com/@snehabirodkar)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/snehabirodkar/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/SnehaBirodkar)
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png">](https://hashnode.com/@snehabirodkar)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png">](https://www.linkedin.com/in/snehabirodkar/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png">](https://twitter.com/SnehaBirodkar)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=snehabirodkar.snehabirodkar)
 

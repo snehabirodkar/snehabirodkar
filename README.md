@@ -5,7 +5,7 @@
 
 📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
 
-📌 Here's a link to my [Portfolio](https://www.snehabirodkar.ml/)
+📌 Here's a link to my [Portfolio](https://www.snehabirodkar.tk/)
 
 📌 My technical skills include :
 

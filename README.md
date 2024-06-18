@@ -1,7 +1,7 @@
 # Hello there! 👋🏻
 
 
-📌 I am **Sneha Birodkar** | **Frontend Developer** | **Freelancer**
+📌 I am **Sneha Birodkar** | **FullStack Developer** | **Freelancer**
 
 📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
 

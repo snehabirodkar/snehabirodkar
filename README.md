@@ -2,7 +2,7 @@
 
 📌 I am **Sneha Birodkar** | **FullStack Developer** | **UI/UX Developer** | **Freelancer**
 
-📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
+📌 I am extremely motivated at learning to excel in my skills. Consistency and passion for my work are the key factors towards my success.
 
 📌 My technical skills include :
 

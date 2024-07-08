@@ -4,7 +4,8 @@
 
 📌 I am extremely motivated at learning to excel in my skills. Consistency and passion for my work are the key factors towards my success.
 
-📌 My technical skills include :
+
+## My technical skills include :
 
 
  - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/typescript.png" />
